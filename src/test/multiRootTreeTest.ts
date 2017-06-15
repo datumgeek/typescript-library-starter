@@ -1,6 +1,6 @@
 import * as collections from '../lib/index';
 
-import assert = require('assert');
+import 'mocha';
 import {expect} from 'chai';
 
 describe('Multi Root Tree', function () {

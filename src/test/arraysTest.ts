@@ -1,6 +1,6 @@
 import * as collections from '../lib/index';
+import 'mocha';
 
-import assert = require('assert');
 import {expect} from 'chai';
 
 describe('Arrays',
